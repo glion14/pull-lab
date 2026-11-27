@@ -4,10 +4,10 @@
 
 | | Founder 1 | Founder 2 |
 |---|---|---|
-| Name | | |
-| Role | <!-- e.g. sales, calls, support --> | |
-| Time on the company | <!-- e.g. 3 days a week, plus weekends --> | |
-| Public face | <!-- yes / no, and why --> | |
+| Name | Alex Marksfeld | Michael Stejskal |
+| Role | Sales, Tech (former engineer & CTO) | Sales, Product |
+| Time on the company | Fulltime | Fulltime |
+| Public face | yes | yes |
 
 ## Known habits
 

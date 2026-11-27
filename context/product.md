@@ -1,6 +1,8 @@
 # Product
 
 <!-- What the product does, and what counts as a user getting value. Link your docs if you have them. -->
+Company brain. But during 1:1 with real Rob Snyder we realised that no one cares about company brain, they care about outcomes. T
+That's why we started to offer consulting, while we'll deploy company brain as a part of it.
 
 ## What it does
 
