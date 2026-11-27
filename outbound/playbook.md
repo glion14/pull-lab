@@ -50,7 +50,20 @@ Signals decide **who** and **when**. The message only earns the call. Don't quot
 
 <!-- Add a block when a new version of the case study gets sourcing. Keep the old blocks: they show which recipes worked for which version. -->
 
-### v1 · asset behind plan, IC watching (2026-11-27)
+### v2 · portfolio company off plan, AI rebuild of the P&L (2026-11-27)
+
+Same signals as v1 below, widened from real assets to any portfolio company off plan, plus:
+
+| Type | Signal | Points |
+|---|---|---|
+| Need | Owns or sits on the board of a lower mid-market software or services portco that is unprofitable or shrinking (layoffs, hiring freeze, flat or falling headcount on LinkedIn) | +2 |
+| Need | Fund publicly talks about AI-driven efficiency but has no captive AI team | +2 |
+| Urgency | Portco CEO or CFO change, restructuring, or lender or covenant news in the last 60 days | +3 |
+| Warm | A mutual connection or past contact who can introduce (Rob: they're pitched this constantly, warm beats cold) | +2 |
+
+Ask every v2 conversation for the peer sitting on the company furthest off plan.
+
+### v1 · asset behind plan, IC watching (2026-11-27, superseded by v2 the same day)
 
 Added by the weekly review of 2026-11-27. Why: PULL #1 selected by title ("private equity"), and 12 of 13 first meetings had no asset behind plan. The one that pulled ([Filip](../deals/filip-tomasik-activum-sg/deal.md)) owns a portfolio behind business plan with IC watching.
 
