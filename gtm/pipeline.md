@@ -32,6 +32,30 @@ About 170 requests a week, so volume was near LinkedIn's weekly cap. Benchmarks:
 
 **Who was on the list (sample of 100 finished leads, 2026-11-27):** mostly generic private equity titles: associates, analysts, investment directors, tax partners at an accounting firm, a communication coach, LBS MBA candidates, large funds (KKR, Blackstone, Carlyle, EQT, Permira, Warburg Pincus). Selected by title, not by whether the person owns an asset that is behind plan.
 
+## Channel: Dinner #0 (London)
+
+Dinner on Tue 8 Dec 2026, 6:30pm, Jikoni (Marylebone), private room. Invites through Dripify campaign "Dinner #0 (London)" (started 2026-11-19), from three lists: Owner-CEO UK companies 2nd degree (552), Operating Partners 2nd degree London (356), VP and above London 2nd degree (510). Lucia Cerchlan co-hosts.
+
+**Funnel by stage.** Rows are added on top with a date. Dripify reports lifetime totals only, with no split by list.
+
+| Checked | Contacted | Accepted | Replied | Confirmed guests | Waiting on a reply after the date was sent | Attended | First calls booked after the dinner |
+|---|---|---|---|---|---|---|---|
+| 2026-11-27 | 199 of 1,308 leads | 78 (39.2%) | 19 (9.5% of accepted) | 3 + co-host (see below); 1 of them came from this campaign | 5 | dinner on 12-08 | follow-up due about 12-22 (two weeks after) |
+
+**Guests (2026-11-27)**
+
+| Person | Status | Source | Role (from LinkedIn) |
+|---|---|---|---|
+| Sailesh Panchal | Confirmed | Cold, Dinner #0 Dripify | CTO + Payments Director, TSB Bank |
+| Balazs Slezak | Confirmed | Warm, knows Alex | not checked |
+| [Filip Tomasik](../deals/filip-tomasik-activum-sg/deal.md) | Confirmed | Cold, met through PULL #1 Dripify | Activum SG, live deal (pulled 11-18) |
+| Lucia Cerchlan | Co-host | Warm, close to Alex | |
+| [Lina Mikolajczyk](../deals/lina-mikolajczyk-five-arrows/deal.md) | Invited in a follow-up, no reply | Past call (11-12) | Five Arrows, AI and data lead |
+| Himanshu Kher | Date sent 11-26, no reply | Cold, Dinner #0 Dripify | CFO. Asked "when are you hosting" (11-23) because of Christmas party season |
+| Nick Karl-Roper | Details sent 11-26, no reply | Cold, Dinner #0 Dripify | Transformation and programme director. Asked for details (11-24) |
+| Fergus Hay | Date sent 11-26, no reply | Cold, Dinner #0 Dripify | CEO, The Hacking Games. Lives in Madrid: "if I can make it I will" (11-24). Told about the January dinner |
+| Vikas Sharma | Asked "Can I put you down?" 11-26, no reply | Cold, Dinner #0 Dripify | CTO, moving to a London fintech. Said "happy to attend" (11-24) |
+
 ## Angles tried
 
 | Started | Angle | Sent | Reply rate | Result |
