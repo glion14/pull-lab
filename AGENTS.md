@@ -15,6 +15,8 @@ Read the relevant files before acting. Don't ask the founder to paste what's alr
 | One file per person you're selling to: context, PULL, what they pay and use, timeline, and AI Rob's deal reviews | [deals/](deals/README.md) |
 | How we find people: signals and sourcing recipes | [outbound/playbook.md](outbound/playbook.md) |
 | Weekly reviews | [reviews/](reviews/README.md) |
+| 1:1 sessions with real Rob Snyder | [1:1s/](1:1_with_real_Rob_Snyder.md) |
+| Dinner playbook | [DinnerPlaybook/](small_dinner_playbook.md) |
 
 ## Skills
 
