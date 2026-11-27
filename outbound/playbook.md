@@ -50,7 +50,31 @@ Signals decide **who** and **when**. The message only earns the call. Don't quot
 
 <!-- Add a block when a new version of the case study gets sourcing. Keep the old blocks: they show which recipes worked for which version. -->
 
-### v1 · <!-- short name, date -->
+### v1 · asset behind plan, IC watching (2026-11-27)
+
+Added by the weekly review of 2026-11-27. Why: PULL #1 selected by title ("private equity"), and 12 of 13 first meetings had no asset behind plan. The one that pulled ([Filip](../deals/filip-tomasik-activum-sg/deal.md)) owns a portfolio behind business plan with IC watching.
+
+**Signals**
+
+| Type | Signal | Points |
+|---|---|---|
+| Need | Personally runs asset management for named assets or portfolio companies (real estate and asset-backed PE: PBSA, hotels, care homes; lower mid-market portcos), not a deal-team-only or support role | +2 |
+| Need | Public sign an asset is off plan: occupancy or lettings trouble, covenant reset, write-down, management or CEO change at the portco | +2 |
+| Urgency | Operator, property manager or portco CEO replaced in the last 60 days | +3 |
+| Urgency | Refinancing, IC review, fund raise or exit process for that asset in the last 60 days | +3 |
+| Out | Fund has a captive AI or value creation team doing this (Hg, OTPP, Tomer's fund, Five Arrows) | out |
+| Out | No asset of their own: independent sponsors pre-close, holdco founders, LPs, advisers, service providers | out |
+| Out | Large-cap funds (60+ portcos) | out |
+
+**Sourcing recipe** (not run yet; run by hand on 20 to 50 before automating):
+
+1. Sales Navigator: UK, titles containing asset management / portfolio / operations at real estate and asset-backed PE funds and lower mid-market funds; exclude analysts, associates, tax, legal, coaches, students.
+2. Check each fund for one named asset with an urgency signal above; score; outreach at 5+.
+3. Ask Filip and Mikhail for names in the same seat.
+
+### v0 · PULL #1 by title (2026-10-16 to 2026-11-22, retired 2026-11-27)
+
+Dripify list of UK people with "private equity" type titles. 934 contacted, 24.3% accepted, 16% of accepted replied, 13 first meetings logged across all channels in the same weeks, 1 fit. Retired: title alone doesn't find people with an asset behind plan.
 
 **Signals**
 
