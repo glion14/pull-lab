@@ -27,6 +27,7 @@ pull: yes | partial | no
 - **Source:** how the conversation started, who started it, which outreach angle or intro
 - **Before us:** the tools and workarounds they used
 - **Links:** LinkedIn thread, call recordings, their entries in gtm/sales.md
+- **Founder hand-written notes:** Hand-written notes from the founder who had a call with the person. This must not be amended by an agent.
 
 ## PULL (latest read, YYYY-MM-DD)
 - **Pulled?** the step they took on their own, quoted, or "no"
